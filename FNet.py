@@ -102,4 +102,3 @@ class FNet(nn.Module):
         x = self.bn6(x)
 
         return x
->>>>>>> 82d4fd17cb121552baddef5e429baf146d1133c1
