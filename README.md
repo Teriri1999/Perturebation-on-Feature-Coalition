@@ -8,7 +8,7 @@ The inherent "black box" nature of deep neural networks (DNNs) compromises their
 demo.ipynb
 
 # Flowchart
-![1](./illustration.png)
+![1](./flowchart.png)
 
 # Visualization
 ![2](./illustration.png)
