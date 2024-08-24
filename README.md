@@ -8,4 +8,4 @@ The inherent "black box" nature of deep neural networks (DNNs) compromises their
 demo.ipynb
 
 # Visualization
-![1](./illustration.pdf)
+![1](./illustration.tiff)
